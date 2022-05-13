@@ -1,7 +1,10 @@
 {
   "name": "barcode-tester",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
